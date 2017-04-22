@@ -40,8 +40,7 @@ class ViewController: UIViewController {
             }else{
                 a=a/10
             }
-        } 
-        
+        }
         return false
     }
     @IBAction func plusButton(){
